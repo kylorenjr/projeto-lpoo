@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("joão é baitola demais");
+        System.out.println("lucas é baitola");
     }
 }
