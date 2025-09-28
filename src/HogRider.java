@@ -1,8 +1,6 @@
-public class HogRider extends Inimigos{
+public class HogRider extends Inimigos {
 
-        String cor = "azul";
-        double vida = 1000;
-        int dano = 150;
-
-
+    public HogRider() {
+        super(100.0, 20);
+    }
 }
