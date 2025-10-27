@@ -1,6 +1,6 @@
 public class HogRider extends Inimigos {
 
     public HogRider() {
-        super(100.0, 20);
+        super(60, 20, 10); // vida, dano, recompensa
     }
 }
